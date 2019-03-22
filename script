@@ -1,0 +1,15 @@
+ident
+sphere
+200 350 10 100
+sphere
+300 350 10 100
+sphere
+400 350 10 100
+sphere
+200 150 20 200
+tourus
+100 400 150 0 0
+apply
+display
+save
+uwu.png
